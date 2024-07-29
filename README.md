@@ -35,7 +35,7 @@
   - google search API
   - kakao open API
 
-- 배포 링크 : [AI Trevel Planner 길동이](https://gildong.site)
+- 배포 링크 : [AI Trevel Planner 길동이](https://gildong.site) (배포 중단)
   <br />
   <br />
 
@@ -56,8 +56,8 @@
 
 |                                           Front-end                                           |                                           Back-end                                            |                                           Back-end                                            |                                           Back-end                                            |
 | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/96197310?v=4" width="200px" height="200px"> | <img src="https://avatars.githubusercontent.com/u/72532377?v=4" width="200px" height="200px"> | <img src="https://avatars.githubusercontent.com/u/86283443?v=4" width="200px" height="200px"> | <img src="https://avatars.githubusercontent.com/u/97862180?v=4" width="200px" height="200px"> |
-|                   [강명주<br/>(@myungju030)](https://github.com/myungju030)                   |                  [홍민지<br/>(@ella-hong22)](https://github.com/ella-hong22)                  |                      [이원석<br/>(@leewaay)](https://github.com/leewaay)                      |                  [이준엽<br/>(@Makeitshort)](https://github.com/Makeitshort)                  |
+| <img src="https://avatars.githubusercontent.com/u/96197310?v=4" width="200px" height="200px"> | <img src="https://avatars.githubusercontent.com/u/72532377?v=4" width="200px" height="200px"> | <img src="https://avatars.githubusercontent.com/u/86283443?v=4" width="200px" height="200px"> | <img src="https://avatars.githubusercontent.com/u/176042778?v=4" width="200px" height="200px"> |
+|                   [강명주<br/>(@myungju030)](https://github.com/myungju030)                   |                  [홍민지<br/>(@ella-hong22)](https://github.com/ella-hong22)                  |                      [이원석<br/>(@leewaay)](https://github.com/leewaay)                      |                  [이준엽<br/>(@YUP-Bigdata)](https://github.com/yup-bigdata)                  |
 |                                        프론트엔드 개발                                        |                               서비스 기획 및 관리, AI 챗봇 개발                               |                                백엔드 개발 총괄, AI 챗봇 개발                                 |                                DB관리, 이미지 검색 서비스 개발                                |
 
 </div>
